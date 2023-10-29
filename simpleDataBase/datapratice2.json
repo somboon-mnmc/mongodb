@@ -1,0 +1,85 @@
+[
+    {
+        "_id":1,
+        "name":"Nintendo Switch Lite",
+        "description":"Handheld console from Nintendo",
+        "color":"red",
+        "price":9999
+    },
+    {
+        "_id":2,
+        "name":"Play Station 5",
+        "description":"Console from Sony 5th generation",
+        "color":"black",
+        "price":20000
+    },
+    {
+        "_id":3,
+        "name":"Play Station 5 Pro",
+        "description":"Like PS5 but it's Pro",
+        "color":"black",
+        "price":25000
+    },
+    {
+        "_id":4,
+        "name":"Play Station 5 Ultimate",
+        "description":"Like PS5 but it's Ultimate",
+        "color":"black",
+        "price":25000
+    },
+    {
+        "_id":5,
+        "name":"Game Boy",
+        "description":"Game console for boy",
+        "color":"dark grey",
+        "price":2700
+    },
+    {
+        "_id":6,
+        "name":"Wii",
+        "description":"Motion control game console",
+        "color":"white",
+        "price":6000
+    },
+    {
+        "_id":7,
+        "name":"Wii U",
+        "description":"Like Wii but U",
+        "color":"white",
+        "price":8000
+    },
+    {
+        "_id":8,
+        "name":"Wii UwU",
+        "description":"Like Wii but UwU",
+        "color":"pink",
+        "price":8080
+    },
+    {
+        "_id":9,
+        "name":"Game Girl",
+        "description":"Game console for Girl",
+        "color":"light grey",
+        "price":2700
+    },
+    {
+        "_id":10,
+        "name":"X-Box 360",
+        "description":"Console from Microsoft",
+        "color":"black",
+        "price":22000
+    },
+    {
+        "_id":11,
+        "name":"Calculator",
+        "color":"black",
+        "price":1500
+    },
+    {
+        "_id":12,
+        "name":"Nokia",
+        "color":"grey",
+        "price":1000
+    }
+    
+]
